@@ -9,3 +9,5 @@ Some problems must be recoded, like calling specific [WebSphere MBeans](https://
 1. [CICS Transaction Gateway with Web Services Invocation Framework](CICSTGwithWSIF.md) (WSIF)
 2. [Web Services JAX-RPC](JAX-RPC.md)
 3. [JNDI InitialContext](InitialContextFactory.md)
+
+Deploy with OCP Builds and OpenLiberty [example](https://github.com/bpaskin/WASLibertyScriptsAndStuff/tree/master/OCPLibertyBuild).
