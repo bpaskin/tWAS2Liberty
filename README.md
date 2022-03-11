@@ -5,3 +5,7 @@ Some guides to help with common problems migrating from traditional [WebSphere A
 Running the [Transformation Advisor](https://www.ibm.com/garage/method/practices/learn/ibm-transformation-advisor/) yields lots of helpful information, but some solutions can be worked around instead of additional coding or refactoring applications.  This includes specific tWAS enhancements.
 
 Some problems must be recoded, like calling specific [WebSphere MBeans](https://www.ibm.com/docs/en/was-liberty/base?topic=liberty-list-provided-mbeans).  
+
+1. [CICS Transaction Gateway with Web Services Invocation Framework](CICSTGwithWSIF.md)
+2. [WebServices JAX-RPC](JAX-RPC.md)
+3. [JNDI InitialContext](InitialContextFactory.md)
