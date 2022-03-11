@@ -6,6 +6,6 @@ Running the [Transformation Advisor](https://www.ibm.com/garage/method/practices
 
 Some problems must be recoded, like calling specific [WebSphere MBeans](https://www.ibm.com/docs/en/was-liberty/base?topic=liberty-list-provided-mbeans).  
 
-1. [CICS Transaction Gateway with Web Services Invocation Framework](CICSTGwithWSIF.md)
-2. [WebServices JAX-RPC](JAX-RPC.md)
+1. [CICS Transaction Gateway with Web Services Invocation Framework](CICSTGwithWSIF.md) (WSIF)
+2. [Web Services JAX-RPC](JAX-RPC.md)
 3. [JNDI InitialContext](InitialContextFactory.md)
