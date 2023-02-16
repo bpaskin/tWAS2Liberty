@@ -10,5 +10,6 @@ Some problems must be recoded, like calling specific [WebSphere MBeans](https://
 2. [Web Services JAX-RPC](JAX-RPC.md)
 3. [JNDI InitialContext](InitialContextFactory.md)
 4. [Outbound Web Service (JAX-WS) that requires SSL](JAXWSwithOutboundSecurity.md)
+5. [JAX-RS issues](JAXRSVersion.md)
 
 Deploy with OCP Builds and OpenLiberty [example](https://github.com/bpaskin/WASLibertyScriptsAndStuff/tree/master/OCPLibertyBuild).
