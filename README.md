@@ -13,6 +13,7 @@ Some problems must be recoded, like calling specific [WebSphere MBeans](https://
 5. [JAX-RS issues](JAXRSVersion.md)
 6. [Unknown module errors](UknownJDKModules.md)
 7. [LinkageError](LinakgeError.md)
+8. [RemoteEJBs](RemoteEJBs.md)
 
 
 Deploy with OCP Builds and OpenLiberty [example](https://github.com/bpaskin/WASLibertyScriptsAndStuff/tree/master/OCPLibertyBuild).
