@@ -13,7 +13,7 @@ The following jars can be added to a shared library that is referenced by the ap
    <fileset dir="/path/to/sharedlib/ctg" includes="*.jar"/>
 </library>
 ```
-5. Add the shared library to the application
+6. Add the shared library to the application
 ```
 <webApplication id="myApp" location="myApp.war" name="myApp">
    <classloader classProviderRef="ctgRA" commonLibraryRef="ctg"/>
@@ -23,3 +23,7 @@ The `classProviderRef` above is the reference to the resource adapter for CICS T
 ```
 <resourceAdapter autoStart="true" id="ctgRA" location="/path/to/cicseci.rar"/>
 ```
+
+*** May need to be added!!!
+
+Depending on the version of CICS TG RA another library may need to be added.  [Code](https://github.com/bpaskin/tWAS2Liberty/tree/main/wsif) is here.  Add it to the shared library.
